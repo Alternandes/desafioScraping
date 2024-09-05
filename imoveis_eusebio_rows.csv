@@ -1,0 +1,264 @@
+id,price,dimension,address,inserted_at
+1,R$ 290.000,330,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:09:10.145225
+2,R$ 299.000,367,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:09:10.364868
+3,R$ 120.000,275,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:09:10.558603
+4,R$ 910.000,460,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:09:10.75668
+5,R$ 260.000,275,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:09:10.968386
+6,R$ 340.000,344,"Cidade Alpha, Eusébio - CE",2024-09-05 19:09:11.195006
+7,R$ 11.300.000,56664,"Encantada, Eusébio - CE",2024-09-05 19:09:11.460779
+8,R$ 125.951,150,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:09:11.664258
+9,R$ 680.000,500,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:09:11.874044
+10,R$ 890.000,397,"Coacu, Eusébio - CE",2024-09-05 19:09:12.077441
+11,R$ 119.343,150,"Coité, Eusébio - CE",2024-09-05 19:09:12.295829
+12,R$ 199.760,275,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:09:12.502534
+13,R$ 140.350,212,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:09:12.698727
+14,R$ 280.000,325,"Centro, Eusébio - CE",2024-09-05 19:09:12.90732
+15,R$ 450.000,480,Eusébio - CE,2024-09-05 19:09:13.101951
+16,R$ 49.900,150,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:09:13.296898
+17,R$ 350.000,397,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:09:13.488572
+18,R$ 925.000,639,"Centro, Eusébio - CE",2024-09-05 19:09:13.697587
+19,R$ 285.000,0,"Avenida Atlântica, SN - Cidade Alpha, Eusébio - CE",2024-09-05 19:09:13.904191
+20,R$ 12.000.000,30000,"Estrada do Fio, 3335 - Eusebio, Eusébio - CE",2024-09-05 19:09:14.110594
+21,R$ 6.500.000,9600,"Guaribas, Eusébio - CE",2024-09-05 19:09:14.314605
+22,R$ 254.549,317,"Avenida Eusébio de Queiroz, 1 - Coité, Eusébio - CE",2024-09-05 19:09:14.524973
+23,R$ 180.000,200,"Avenida Noé Leite de Freitas, 300 - Urucunema, Eusébio - CE",2024-09-05 19:09:14.726294
+24,R$ 315.000,363,"Cidade Alpha, Eusébio - CE",2024-09-05 19:09:14.938729
+25,R$ 320.000,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:09:15.163669
+26,R$ 125.000,150,"Rua Alisson Silva dos Santos, 264 - Coité, Eusébio - CE",2024-09-05 19:09:15.364933
+27,R$ 120.000,165,"Coité, Eusébio - CE",2024-09-05 19:09:15.582833
+28,R$ 6.000.000,15000,"Rua Jose Bento, 127 - Amador, Eusébio - CE",2024-09-05 19:09:15.806596
+29,R$ 525.000,1428,"Rua Raul Tavares, 259 - Jabuti, Eusébio - CE",2024-09-05 19:09:16.043397
+30,R$ 215.000,275,"Rodovia 4º Anel Viário - Tamatanduba, Eusébio - CE",2024-09-05 19:09:16.254664
+31,R$ 450.000,450,"Cidade Alpha, Eusébio - CE",2024-09-05 19:09:16.446343
+32,R$ 215.000,275,"Rua José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:09:16.657573
+33,R$ 155.000,233,"Jacunda, Eusébio - CE",2024-09-05 19:09:16.854816
+34,R$ 220.000,315,"Eusebio, Eusébio - CE",2024-09-05 19:09:17.061651
+35,R$ 125.000,150,"Tamatanduba, Eusébio - CE",2024-09-05 19:09:17.272453
+36,R$ 12.000.000,30000,"Estrada do Fio, 3371 - Coacu, Eusébio - CE",2024-09-05 19:09:17.463545
+37,290000.0,330,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:32:55.998076
+38,290000.0,330,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:32:57.275893
+39,290000.0,330,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:32:58.588216
+40,290000.0,330,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:32:59.802988
+41,290000.0,330,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:33:01.092786
+42,290000.0,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:33:02.345623
+43,290000.0,330,"Encantada, Eusébio - CE",2024-09-05 19:33:03.609178
+44,290000.0,330,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:33:04.914191
+45,290000.0,330,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:33:06.155802
+46,290000.0,330,"Coacu, Eusébio - CE",2024-09-05 19:33:07.378117
+47,290000.0,330,"Coité, Eusébio - CE",2024-09-05 19:33:08.581019
+48,290000.0,330,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:33:09.786149
+49,290000.0,330,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:33:11.025679
+50,290000.0,330,"Centro, Eusébio - CE",2024-09-05 19:33:12.246762
+51,290000.0,330,Eusébio - CE,2024-09-05 19:33:13.462263
+52,290000.0,330,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:33:14.679807
+53,290000.0,330,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:33:15.902223
+54,290000.0,330,"Centro, Eusébio - CE",2024-09-05 19:33:17.130258
+55,290000.0,330,"Avenida Atlântica, SN - Cidade Alpha, Eusébio - CE",2024-09-05 19:33:18.359407
+56,290000.0,330,"Estrada do Fio, 3335 - Eusebio, Eusébio - CE",2024-09-05 19:33:19.577258
+57,290000.0,330,"Guaribas, Eusébio - CE",2024-09-05 19:33:20.811845
+58,290000.0,330,"Avenida Eusébio de Queiroz, 1 - Coité, Eusébio - CE",2024-09-05 19:33:22.034882
+59,290000.0,330,"Avenida Noé Leite de Freitas, 300 - Urucunema, Eusébio - CE",2024-09-05 19:33:23.253041
+60,290000.0,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:33:24.499508
+61,290000.0,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:33:25.746795
+62,290000.0,330,"Rua Alisson Silva dos Santos, 264 - Coité, Eusébio - CE",2024-09-05 19:33:27.043985
+63,290000.0,330,"Coité, Eusébio - CE",2024-09-05 19:33:28.301881
+64,290000.0,330,"Rua Jose Bento, 127 - Amador, Eusébio - CE",2024-09-05 19:33:29.557673
+65,290000.0,330,"Rua Raul Tavares, 259 - Jabuti, Eusébio - CE",2024-09-05 19:33:30.892298
+66,290000.0,330,"Rodovia 4º Anel Viário - Tamatanduba, Eusébio - CE",2024-09-05 19:33:32.196873
+67,290000.0,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:33:33.500737
+68,290000.0,330,"Rua José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:33:34.80582
+69,290000.0,330,"Jacunda, Eusébio - CE",2024-09-05 19:33:36.019478
+70,290000.0,330,"Eusebio, Eusébio - CE",2024-09-05 19:33:37.2413
+71,290000.0,330,"Tamatanduba, Eusébio - CE",2024-09-05 19:33:38.474943
+72,290000.0,330,"Estrada do Fio, 3371 - Coacu, Eusébio - CE",2024-09-05 19:33:39.697242
+73,290000.0,367,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:33:40.954371
+74,290000.0,367,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:33:42.252873
+75,290000.0,367,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:33:43.475191
+76,290000.0,367,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:33:44.694624
+77,290000.0,367,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:33:46.001918
+78,290000.0,367,"Cidade Alpha, Eusébio - CE",2024-09-05 19:33:47.230419
+79,290000.0,367,"Encantada, Eusébio - CE",2024-09-05 19:33:48.446953
+80,290000.0,367,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:33:49.741457
+81,290000.0,367,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:33:50.967817
+82,290000.0,367,"Coacu, Eusébio - CE",2024-09-05 19:33:52.18908
+83,290000.0,367,"Coité, Eusébio - CE",2024-09-05 19:33:53.415984
+84,290000.0,367,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:33:54.720676
+85,290000.0,367,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:33:55.94115
+86,290000.0,367,"Centro, Eusébio - CE",2024-09-05 19:33:57.155951
+87,290000.0,367,Eusébio - CE,2024-09-05 19:33:58.383926
+88,290000.0,367,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:33:59.602907
+89,290000.0,367,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:34:00.835398
+90,R$ 290.000,330,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:47:28.402759
+91,R$ 299.000,367,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:47:28.61865
+92,R$ 120.000,275,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:47:28.815962
+93,R$ 910.000,460,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:47:29.12416
+94,R$ 260.000,275,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:47:29.340187
+95,R$ 340.000,344,"Cidade Alpha, Eusébio - CE",2024-09-05 19:47:29.585997
+96,R$ 11.300.000,56664,"Encantada, Eusébio - CE",2024-09-05 19:47:29.797687
+97,R$ 125.951,150,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:47:30.095401
+98,R$ 680.000,500,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:47:30.301429
+99,R$ 119.343,150,"Coité, Eusébio - CE",2024-09-05 19:47:30.577128
+100,R$ 199.760,275,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:47:30.781126
+101,R$ 140.350,212,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:47:30.983848
+102,R$ 280.000,325,"Centro, Eusébio - CE",2024-09-05 19:47:31.260101
+103,R$ 450.000,480,Eusébio - CE,2024-09-05 19:47:31.467022
+104,R$ 49.900,150,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:47:31.696846
+105,R$ 350.000,397,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:47:31.875535
+106,R$ 890.000,397,"Coacu, Eusébio - CE",2024-09-05 19:47:32.071936
+107,R$ 925.000,639,"Centro, Eusébio - CE",2024-09-05 19:47:32.28973
+108,R$ 285.000,0,"Avenida Atlântica, SN - Cidade Alpha, Eusébio - CE",2024-09-05 19:47:32.49137
+109,R$ 12.000.000,30000,"Estrada do Fio, 3335 - Eusebio, Eusébio - CE",2024-09-05 19:47:32.708135
+110,R$ 6.500.000,9600,"Guaribas, Eusébio - CE",2024-09-05 19:47:32.902497
+111,R$ 254.549,317,"Avenida Eusébio de Queiroz, 1 - Coité, Eusébio - CE",2024-09-05 19:47:33.11002
+112,R$ 180.000,200,"Avenida Noé Leite de Freitas, 300 - Urucunema, Eusébio - CE",2024-09-05 19:47:33.399062
+113,R$ 315.000,363,"Cidade Alpha, Eusébio - CE",2024-09-05 19:47:33.595445
+114,R$ 320.000,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:47:33.865659
+115,R$ 125.000,150,"Rua Alisson Silva dos Santos, 264 - Coité, Eusébio - CE",2024-09-05 19:47:34.091083
+116,R$ 120.000,165,"Coité, Eusébio - CE",2024-09-05 19:47:34.359524
+117,R$ 6.000.000,15000,"Rua Jose Bento, 127 - Amador, Eusébio - CE",2024-09-05 19:47:34.568764
+118,R$ 525.000,1428,"Rua Raul Tavares, 259 - Jabuti, Eusébio - CE",2024-09-05 19:47:34.752594
+119,R$ 215.000,275,"Rodovia 4º Anel Viário - Tamatanduba, Eusébio - CE",2024-09-05 19:47:35.033415
+120,R$ 450.000,450,"Cidade Alpha, Eusébio - CE",2024-09-05 19:47:35.259221
+121,R$ 215.000,275,"Rua José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:47:35.457427
+122,R$ 155.000,233,"Jacunda, Eusébio - CE",2024-09-05 19:47:35.662279
+123,R$ 220.000,315,"Eusebio, Eusébio - CE",2024-09-05 19:47:35.860833
+124,R$ 125.000,150,"Tamatanduba, Eusébio - CE",2024-09-05 19:47:36.160246
+125,R$ 12.000.000,30000,"Estrada do Fio, 3371 - Coacu, Eusébio - CE",2024-09-05 19:47:36.42108
+126,R$ 290.000,330,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:50:34.009972
+127,R$ 299.000,367,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:50:34.210573
+128,R$ 120.000,275,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:50:34.49667
+129,R$ 910.000,460,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:50:34.820248
+130,R$ 260.000,275,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:50:35.110564
+131,R$ 340.000,344,"Cidade Alpha, Eusébio - CE",2024-09-05 19:50:35.314466
+132,R$ 11.300.000,56664,"Encantada, Eusébio - CE",2024-09-05 19:50:35.51342
+133,R$ 125.951,150,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:50:35.733826
+134,R$ 680.000,500,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:50:36.027267
+135,R$ 119.343,150,"Coité, Eusébio - CE",2024-09-05 19:50:36.231395
+136,R$ 199.760,275,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:50:36.503309
+137,R$ 140.350,212,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:50:36.719611
+138,R$ 280.000,325,"Centro, Eusébio - CE",2024-09-05 19:50:37.003734
+139,R$ 450.000,480,Eusébio - CE,2024-09-05 19:50:37.219986
+140,R$ 49.900,150,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:50:37.420431
+141,R$ 350.000,397,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:50:37.702407
+142,R$ 890.000,397,"Coacu, Eusébio - CE",2024-09-05 19:50:38.001464
+143,R$ 925.000,639,"Centro, Eusébio - CE",2024-09-05 19:50:38.223679
+144,R$ 285.000,0,"Avenida Atlântica, SN - Cidade Alpha, Eusébio - CE",2024-09-05 19:50:38.464982
+145,R$ 12.000.000,30000,"Estrada do Fio, 3335 - Eusebio, Eusébio - CE",2024-09-05 19:50:38.683064
+146,R$ 6.500.000,9600,"Guaribas, Eusébio - CE",2024-09-05 19:50:38.994752
+147,R$ 254.549,317,"Avenida Eusébio de Queiroz, 1 - Coité, Eusébio - CE",2024-09-05 19:50:39.218845
+148,R$ 180.000,200,"Avenida Noé Leite de Freitas, 300 - Urucunema, Eusébio - CE",2024-09-05 19:50:39.429057
+149,R$ 315.000,363,"Cidade Alpha, Eusébio - CE",2024-09-05 19:50:39.648885
+150,R$ 320.000,330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:50:39.881956
+151,R$ 125.000,150,"Rua Alisson Silva dos Santos, 264 - Coité, Eusébio - CE",2024-09-05 19:50:40.077248
+152,R$ 120.000,165,"Coité, Eusébio - CE",2024-09-05 19:50:40.277621
+153,R$ 6.000.000,15000,"Rua Jose Bento, 127 - Amador, Eusébio - CE",2024-09-05 19:50:40.4814
+154,R$ 525.000,1428,"Rua Raul Tavares, 259 - Jabuti, Eusébio - CE",2024-09-05 19:50:40.699737
+155,R$ 215.000,275,"Rodovia 4º Anel Viário - Tamatanduba, Eusébio - CE",2024-09-05 19:50:40.912307
+156,R$ 450.000,450,"Cidade Alpha, Eusébio - CE",2024-09-05 19:50:41.204234
+157,R$ 215.000,275,"Rua José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:50:41.502821
+158,R$ 155.000,233,"Jacunda, Eusébio - CE",2024-09-05 19:50:41.708269
+159,R$ 220.000,315,"Eusebio, Eusébio - CE",2024-09-05 19:50:41.929262
+160,R$ 125.000,150,"Tamatanduba, Eusébio - CE",2024-09-05 19:50:42.128873
+161,R$ 12.000.000,30000,"Estrada do Fio, 3371 - Coacu, Eusébio - CE",2024-09-05 19:50:42.329597
+162,R$ 1.280.000,180,"Rua Sorocotuba - Morro Sorocotuba, Guarujá - SP",2024-09-05 19:50:42.56033
+163,R$ 1.100,4,"Avenida Bela Vista, 207 - Chácaras Bela Vista, Aparecida de Goiânia - GO",2024-09-05 19:50:42.766667
+164,R$ 1.380,4,"Avenida Bela Vista, 985 - Jardim Bela Vista - Continuação, Aparecida de Goiânia - GO",2024-09-05 19:50:43.049076
+165,,2,,2024-09-05 19:50:43.340785
+166,,56,,2024-09-05 19:50:43.625161
+167,,2,,2024-09-05 19:50:43.908897
+168,,1,,2024-09-05 19:50:44.155681
+169,,1,,2024-09-05 19:50:44.436462
+170,R$ 950,53,"Rua Belmiro Bento, 1 - Setor Residencial Garavelo I, Trindade - GO",2024-09-05 19:50:44.643874
+171,R$ 150.000,2,"Jardins Berlim, Senador Canedo - GO",2024-09-05 19:50:44.864068
+172,R$ 650,2,"Vista Alegre - 1ª Seção, Ibirité - MG",2024-09-05 19:50:45.153697
+173,,1,,2024-09-05 19:50:45.406683
+174,,,,2024-09-05 19:50:45.696274
+175,,,,2024-09-05 19:50:45.907253
+176,,,,2024-09-05 19:50:46.112439
+177," 290000",330,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:52:11.076479
+178," 299000",367,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:52:11.377534
+179," 120000",275,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:52:11.63416
+180," 910000",460,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:52:11.834896
+181," 260000",275,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:52:12.105282
+182," 340000",344,"Cidade Alpha, Eusébio - CE",2024-09-05 19:52:12.33978
+183," 11300000",56664,"Encantada, Eusébio - CE",2024-09-05 19:52:12.542368
+184," 125951",150,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:52:12.81509
+185," 680000",500,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:52:13.050091
+186," 119343",150,"Coité, Eusébio - CE",2024-09-05 19:52:13.258359
+187," 199760",275,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:52:13.456445
+188," 140350",212,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:52:13.653951
+189," 280000",325,"Centro, Eusébio - CE",2024-09-05 19:52:13.866805
+190," 450000",480,Eusébio - CE,2024-09-05 19:52:14.071002
+191," 49900",150,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:52:14.268945
+192," 350000",397,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:52:14.473736
+193," 890000",397,"Coacu, Eusébio - CE",2024-09-05 19:52:14.669409
+194," 925000",639,"Centro, Eusébio - CE",2024-09-05 19:52:14.880657
+195," 285000",0,"Avenida Atlântica, SN - Cidade Alpha, Eusébio - CE",2024-09-05 19:52:15.159856
+196," 12000000",30000,"Estrada do Fio, 3335 - Eusebio, Eusébio - CE",2024-09-05 19:52:15.364122
+197," 6500000",9600,"Guaribas, Eusébio - CE",2024-09-05 19:52:15.592324
+198," 254549",317,"Avenida Eusébio de Queiroz, 1 - Coité, Eusébio - CE",2024-09-05 19:52:15.803501
+199," 180000",200,"Avenida Noé Leite de Freitas, 300 - Urucunema, Eusébio - CE",2024-09-05 19:52:16.029715
+200," 315000",363,"Cidade Alpha, Eusébio - CE",2024-09-05 19:52:16.243108
+201," 320000",330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:52:16.528348
+202," 125000",150,"Rua Alisson Silva dos Santos, 264 - Coité, Eusébio - CE",2024-09-05 19:52:16.747298
+203," 120000",165,"Coité, Eusébio - CE",2024-09-05 19:52:17.039885
+204," 6000000",15000,"Rua Jose Bento, 127 - Amador, Eusébio - CE",2024-09-05 19:52:17.335728
+205," 525000",1428,"Rua Raul Tavares, 259 - Jabuti, Eusébio - CE",2024-09-05 19:52:17.58145
+206," 215000",275,"Rodovia 4º Anel Viário - Tamatanduba, Eusébio - CE",2024-09-05 19:52:17.780682
+207," 450000",450,"Cidade Alpha, Eusébio - CE",2024-09-05 19:52:17.986289
+208," 215000",275,"Rua José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:52:18.184079
+209," 155000",233,"Jacunda, Eusébio - CE",2024-09-05 19:52:18.463198
+210," 220000",315,"Eusebio, Eusébio - CE",2024-09-05 19:52:18.679056
+211," 125000",150,"Tamatanduba, Eusébio - CE",2024-09-05 19:52:18.952455
+212," 12000000",30000,"Estrada do Fio, 3371 - Coacu, Eusébio - CE",2024-09-05 19:52:19.233518
+213," 1280000",180,"Rua Sorocotuba - Morro Sorocotuba, Guarujá - SP",2024-09-05 19:52:19.452491
+214," 1100",4,"Avenida Bela Vista, 207 - Chácaras Bela Vista, Aparecida de Goiânia - GO",2024-09-05 19:52:19.667269
+215," 1380",4,"Avenida Bela Vista, 985 - Jardim Bela Vista - Continuação, Aparecida de Goiânia - GO",2024-09-05 19:52:19.950024
+216,,2,,2024-09-05 19:52:20.154552
+217,,56,,2024-09-05 19:52:20.362747
+218,,2,,2024-09-05 19:52:20.621852
+219,,1,,2024-09-05 19:52:20.906055
+220,,1,,2024-09-05 19:52:21.201355
+221," 950",53,"Rua Belmiro Bento, 1 - Setor Residencial Garavelo I, Trindade - GO",2024-09-05 19:52:21.490042
+222," 150000",2,"Jardins Berlim, Senador Canedo - GO",2024-09-05 19:52:21.727459
+223," 650",2,"Vista Alegre - 1ª Seção, Ibirité - MG",2024-09-05 19:52:21.914268
+224,,1,,2024-09-05 19:52:22.135645
+225,,,,2024-09-05 19:52:22.396538
+226,,,,2024-09-05 19:52:22.612248
+227,,,,2024-09-05 19:52:22.842477
+228," 290000",330,"Avenida Atlântica, 3 - Santo Antonio, Eusébio - CE",2024-09-05 19:54:31.397704
+229," 299000",367,"Avenida Atlântica - Bairro Cidade Alpha, Eusébio - CE",2024-09-05 19:54:31.625296
+230," 120000",275,"Avenida José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:54:31.826763
+231," 910000",460,"CE-040, 700 - Coacu, Eusébio - CE",2024-09-05 19:54:32.055441
+232," 260000",275,"Rodovia Quarto Anel Viário, 1 - Eusebio, Eusébio - CE",2024-09-05 19:54:32.285758
+233," 340000",344,"Cidade Alpha, Eusébio - CE",2024-09-05 19:54:32.520568
+234," 11300000",56664,"Encantada, Eusébio - CE",2024-09-05 19:54:32.770438
+235," 125951",150,"Rua Antônio Martins Freire, 400 - Coité, Eusébio - CE",2024-09-05 19:54:33.000152
+236," 680000",500,"Avenida Eusébio de Queiroz, 13 - Coité, Eusébio - CE",2024-09-05 19:54:33.315768
+237," 119343",150,"Coité, Eusébio - CE",2024-09-05 19:54:33.540499
+238," 199760",275,"Rodovia Quarto Anel Viário - Cidade Alpha, Eusébio - CE",2024-09-05 19:54:33.760914
+239," 140350",212,"CE-040 - Eusebio, Eusébio - CE",2024-09-05 19:54:33.992315
+240," 280000",325,"Centro, Eusébio - CE",2024-09-05 19:54:34.241019
+241," 450000",480,Eusébio - CE,2024-09-05 19:54:34.440354
+242," 49900",150,"Rua Santa Adélia - Tamatanduba, Eusébio - CE",2024-09-05 19:54:34.644085
+243," 350000",397,"Avenida Atlântica, 2100 - Cidade Alpha, Eusébio - CE",2024-09-05 19:54:34.841491
+244," 890000",397,"Coacu, Eusébio - CE",2024-09-05 19:54:35.120683
+245," 925000",639,"Centro, Eusébio - CE",2024-09-05 19:54:35.344831
+246," 285000",0,"Avenida Atlântica, SN - Cidade Alpha, Eusébio - CE",2024-09-05 19:54:35.646533
+247," 12000000",30000,"Estrada do Fio, 3335 - Eusebio, Eusébio - CE",2024-09-05 19:54:35.86487
+248," 6500000",9600,"Guaribas, Eusébio - CE",2024-09-05 19:54:36.103321
+249," 254549",317,"Avenida Eusébio de Queiroz, 1 - Coité, Eusébio - CE",2024-09-05 19:54:36.309759
+250," 180000",200,"Avenida Noé Leite de Freitas, 300 - Urucunema, Eusébio - CE",2024-09-05 19:54:36.582394
+251," 315000",363,"Cidade Alpha, Eusébio - CE",2024-09-05 19:54:36.786402
+252," 320000",330,"Cidade Alpha, Eusébio - CE",2024-09-05 19:54:36.996809
+253," 125000",150,"Rua Alisson Silva dos Santos, 264 - Coité, Eusébio - CE",2024-09-05 19:54:37.191461
+254," 120000",165,"Coité, Eusébio - CE",2024-09-05 19:54:37.495783
+255," 6000000",15000,"Rua Jose Bento, 127 - Amador, Eusébio - CE",2024-09-05 19:54:37.718313
+256," 525000",1428,"Rua Raul Tavares, 259 - Jabuti, Eusébio - CE",2024-09-05 19:54:37.917306
+257," 215000",275,"Rodovia 4º Anel Viário - Tamatanduba, Eusébio - CE",2024-09-05 19:54:38.116644
+258," 450000",450,"Cidade Alpha, Eusébio - CE",2024-09-05 19:54:38.407194
+259," 215000",275,"Rua José Amora Sá - Cidade Alpha, Eusébio - CE",2024-09-05 19:54:38.643321
+260," 155000",233,"Jacunda, Eusébio - CE",2024-09-05 19:54:38.93339
+261," 220000",315,"Eusebio, Eusébio - CE",2024-09-05 19:54:39.138429
+262," 125000",150,"Tamatanduba, Eusébio - CE",2024-09-05 19:54:39.351604
+263," 12000000",30000,"Estrada do Fio, 3371 - Coacu, Eusébio - CE",2024-09-05 19:54:39.573948
